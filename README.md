@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amyxumaomao
-- 👀 I’m interested in atmospheric chemistry and environment, especially for the effect of atmospheric ammonia (NH_3_).
-- 🌱 I’m currently establishing an agricultural NH_3_ emission management model. 
+- 👀 I’m interested in atmospheric chemistry and environment, especially for the effect of atmospheric ammonia (NH~3~).
+- 🌱 I’m currently establishing an agricultural NH~3~ emission management model. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: zjjsxjyok@gmail.com
 
